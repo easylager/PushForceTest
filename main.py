@@ -7,4 +7,3 @@ print(type(item for item in list_testing))
 
 generator_testing = (item for item in list_testing)
 
-git = lambda a: a+1
