@@ -9,7 +9,6 @@ if __name__ == "__main__":
     gen_func = generator_testing_function()
 
     sdifjsfjsdfiosdjfiosdjf
-    sdfisfiosdjfoisdjfiosdjfas
-    sdfksdkfnlsdkfndskfn
+
 
 
