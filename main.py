@@ -6,15 +6,7 @@ print(f'pop_one:{pop_one}')
 print(type(item for item in list_testing))
 
 generator_testing = (item for item in list_testing)
-def generator_testing_function():
-    n = 1
-    yield n
 
-    n += 1
-    yield n
-
-    n += 1
-    yield n
 
 
 if __name__ == "__main__":
