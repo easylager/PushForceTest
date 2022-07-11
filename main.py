@@ -5,13 +5,11 @@ pop_one = list_testing.pop(0)
 
 generator_testing = (item for item in list_testing)
 
-
-
-
-
 if __name__ == "__main__":
     gen_func = generator_testing_function()
     a = next(gen_func)
     print(a)
     print(next(gen_func))
+
+
     print(next(gen_func))
