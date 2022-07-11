@@ -8,6 +8,8 @@ generator_testing = (item for item in list_testing)
 if __name__ == "__main__":
     gen_func = generator_testing_function()
 
-
+    sdifjsfjsdfiosdjfiosdjf
+    sdfisfiosdjfoisdjfiosdjfas
+    sdfksdkfnlsdkfndskfn
 
     print(next(gen_func))
